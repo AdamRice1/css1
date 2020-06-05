@@ -1,0 +1,82 @@
+[
+	{
+		"productName": "Settlement",
+		"serialNumber": "1",
+		"price": "4",
+		"manufacturer": "catan",
+		"tag": "basic",
+		"total": 6
+	},
+	{
+		"productName": "City",
+		"serialNumber": "2",
+		"price": "5",
+		"manufacturer": "catan",
+		"tag": "advanced",
+		"total": 4
+	},
+	{
+		"productName": "Road",
+		"serialNumber": "3",
+		"price": "2",
+		"manufacturer": "catan",
+		"tag": "basic",
+		"total": 15
+	},
+	{
+		"productName": "Knight",
+		"serialNumber": "4",
+		"price": "3",
+		"manufacturer": "catan",
+		"tag": "development",
+		"total": 15
+	},
+	{
+		"productName": "Victory Point",
+		"serialNumber": "5",
+		"price": "3",
+		"manufacturer": "catan",
+		"tag": "development",
+		"total": 5
+	},
+	{
+		"productName": "Monopoly",
+		"serialNumber": "6",
+		"price": "3",
+		"manufacturer": "catan",
+		"tag": "development",
+		"total": 5
+	},
+	{
+		"productName": "Ships",
+		"serialNumber": "7",
+		"price": "5",
+		"manufacturer": "Cities & Knights",
+		"tag": "advanced",
+		"total": 5
+	},
+	{
+		"productName": "Walls",
+		"serialNumber": "8",
+		"price": "2",
+		"manufacturer": "Cities & Knights",
+		"tag": "basic",
+		"total": 3
+	},
+	{
+		"productName": "Port",
+		"serialNumber": "9",
+		"price": "4",
+		"manufacturer": "catan",
+		"tag": "advanced",
+		"total": 1
+	},
+	{
+		"productName": "Science",
+		"serialNumber": "10",
+		"price": "2",
+		"manufacturer": "Cities and Knights",
+		"tag": "development",
+		"total": 1
+	}
+]
